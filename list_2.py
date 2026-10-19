@@ -1,0 +1,5 @@
+str_1=input()
+word=input()
+print(str_1.count(word))
+print(str_1.find(word))
+print(str_1.replace(word, "*"))
