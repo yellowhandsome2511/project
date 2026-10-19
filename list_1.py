@@ -1,0 +1,6 @@
+list_1=list(map(int, input().split()))
+print(max(list_1))
+print(min(list_1))
+print(list_1.count(0))
+list_1=set(list_1)
+print(sorted(list_1))
